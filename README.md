@@ -80,8 +80,7 @@ Halaman **Dashboard Admin** ✅
 **DEMO APLIKASI**
 : https://appemdemo.000webhostapp.com/
 
-NB : 
-- **APLIKASI INI TIDAK GRATIS TF KE DANA BUAT BELI KOPI WKWKWK 😁**
+NB :
 - **DATABASENYA TF KE DANA BUAT BELI KOPI WKWKWK 😁**
 - **PASSWORD ? TF DULU KE DANA BUAT BELI KOPI WKWKWK 😁**
 
