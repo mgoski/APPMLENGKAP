@@ -77,6 +77,8 @@ Halaman **Dashboard Admin** ✅
 - Aktifkan Apache dan Mysql pada Control Panel XAMPP kalian
 - Buka Browser lalu ketik http://localhost/folder_baru atau http://127.0.0.1/folder_baru
 
+**DEMO APLIKASI**
+DEMO : https://appemdemo.000webhostapp.com/
 
 NB : **APLIKASI INI GRATIS TAPI DATABASENYA TF KE DANA BUAT BELI KOPI WKWKWK 😁** 
 
