@@ -70,6 +70,12 @@ Halaman **Dashboard Petugas** ✅
 Halaman **Dashboard Admin** ✅
 ![haladmin](https://github.com/mgoski/APPM/assets/142203248/1df7d6a7-3c7e-465c-97c2-525b7e6cf9bf)
 
+**TUTORIAL**
+- Download file LENGKAP.zip
+- Buat folder baru di directory C:\\xampp\htdocs\folder_baru (sesuaikan saja untuk nama folder baru)
+- Extract file LENGKAP.zip ke directory C:\\xampp\htdocs\folder_baru
+- Aktifkan Apache dan Mysql pada Control Panel XAMPP kalian
+- Buka Browser lalu ketik http://localhost/folder_baru atau http://127.0.0.1/folder_baru
 
 
 NB : **APLIKASI INI GRATIS TAPI DATABASENYA TF KE DANA BUAT BELI KOPI WKWKWK 😁** 
